@@ -1,1 +1,1 @@
-This is an introduction manual to the project
+This is an introduction manual to the project progress
